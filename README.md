@@ -1,4 +1,4 @@
-# pointlesspointlesspointless
+# Pointless Pointless Pointless
 A pointless game.
 
 Whats new - 
