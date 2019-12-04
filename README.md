@@ -1,4 +1,7 @@
+# Old version, see the one on LightSpeed Games
+
 # Pointless Pointless Pointless
+
 A pointless game.
 
 Whats new - 
