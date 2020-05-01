@@ -1,7 +1,8 @@
 # A community edited version of Pointless
+## This version uses the Clarity 2.0 Engine (beta)
 
 Apr 30, 2020 - 1.3.1c
-Changed Background Color
+Changed Engine to Clarity 2.0
 
 Base version - 
 
