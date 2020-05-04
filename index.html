@@ -1531,7 +1531,7 @@ Clarity.prototype.load_map = function (map) {
 
     this.player.loc.x = map.player.x * this.tile_size || 0;
     this.player.loc.y = map.player.y * this.tile_size || 0;
-    this.player.colour = map.player.colour || '#367ced';
+    this.player.colour = map.player.colour || 'red';
   
     this.key.left  = false;
     this.key.up    = false;
@@ -1884,7 +1884,7 @@ Loop();
 }
 
 body {
-  background: #0048ff;
+  background: red;
 }
 
 canvas {
